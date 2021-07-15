@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "question": "クラトスはどのゲームの主人公ですか？",
+        "a": "God of War",
+        "b": "Prince of Persia",
+        "c": "Assassin's Creed",
+        "answer": "a"
+    },
+    {
+        "id": 2,
+        "question": "最初のゲームコンソールは何でしたか？",
+        "a": "Sega Genesis",
+        "b": "NES",
+        "c": "Magnavox Odyssey",
+        "answer": "c"
+    },
+    {
+        "id": 3,
+        "question": "史上最も有名なビデオゲームのキャラクターは誰ですか？",
+        "a": "Mario",
+        "b": "Link",
+        "c": "Donkey Kong",
+        "answer": "a"
+    },
+    {
+        "id": 4,
+        "question": "NESは次の略語でした：",
+        "a": "Never Ending Simulation",
+        "b": "Nintendo Entertainment System",
+        "c": "New Enterprise System",
+        "answer": "b"
+    },
+    {
+        "id": 5,
+        "question": "これらのうち、Rockstarが開発したゲームではないものはどれですか？",
+        "a": "Red Dead Redemption",
+        "b": "Bully",
+        "c": "Hitman",
+        "answer": "c"
+    },
+    {
+        "id": 6,
+        "question": "史上最も売れたビデオゲームは何ですか？",
+        "a": "Grand Theft Auto 5",
+        "b": "Minecraft",
+        "c": "Super Mario Bros.",
+        "answer": "b"
+    },
+    {
+        "id": 7,
+        "question": "プレイステーション4のコンソールはいくつ販売されていますか？",
+        "a": "1億1500万",
+        "b": "8500万",
+        "c": "5500万",
+        "answer": "a"
+    },
+    {
+        "id": 8,
+        "question": "Nintendoは何年に設立されましたか？",
+        "a": "1933",
+        "b": "1977",
+        "c": "1889",
+        "answer": "c"
+    },
+    {
+        "id": 9,
+        "question": "これまでに作られた最も高価なビデオゲームは何ですか？",
+        "a": "Red Dead Redemption 2",
+        "b": "Call of Duty Modern Warfare 2",
+        "c": "Cyberpunk 2077",
+        "answer": "a"
+    },
+    {
+        "id": 10,
+        "question": "最初のバーチャルリアリティヘッドセットが作成されたのは何年ですか？",
+        "a": "1992",
+        "b": "1995",
+        "c": "1998",
+        "answer": "b"
+    }
+]
